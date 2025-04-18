@@ -26,11 +26,12 @@ A fast, reliable tennis ball tracking system built with Python and OpenCV. Suppo
 - OpenCV (`opencv-python`)
 - NumPy
 - imutils
+- mediapipe
 
 ### Installation Steps
 
 ```bash
-pip install opencv-python numpy imutils
+pip install opencv-python numpy imutils mediapipe
 ```
 
 ## Usage
